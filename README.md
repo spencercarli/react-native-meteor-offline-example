@@ -9,6 +9,7 @@ Demo app to go along with this blog post, which covers a potential implementatio
 ## Running Meteor App
 
 - `cd meteor/`
+- `meteor npm install`
 - `meteor`
 
 ## Running React Native App
