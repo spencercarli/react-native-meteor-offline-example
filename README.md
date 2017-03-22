@@ -15,4 +15,5 @@ Demo app to go along with this blog post, which covers a potential implementatio
 ## Running React Native App
 
 - `cd react-native/`
+- `npm install`
 - `react-native run-ios` OR `react-native run-android`
